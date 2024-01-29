@@ -1,14 +1,11 @@
 # CODSOFT-task-1
 ## Mobile App Login Page Design - UI/UX Internship
 ### Overview
-#### Welcome to our UI/UX internship project! This assignment focuses on redesigning the login page for our mobile app. The goal is to create a user-friendly, visually appealing, and on-brand login interface.
+#### Welcome to my UI/UX internship project! This assignment focuses on designing the login page for a mobile app. The goal is to create a user-friendly and visually appealing login interface.
 
 ## Goals
 ### User-Centric Design: 
 #### Prioritize user needs for an intuitive login experience.
-
-### Branding Integration: 
-#### Reflect our brand identity through colors, fonts, and logo.
 
 ### Intuitive Navigation: 
 #### Guide users seamlessly through the login process.
